@@ -1,1 +1,1 @@
-# Bootstrap data table.
+# Data table with filter functionality
