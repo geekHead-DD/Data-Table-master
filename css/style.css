@@ -1,0 +1,44 @@
+.title {
+  text-align: center;
+  background-color: #7579e7;
+  color: white;
+  font-family: "Goldman", cursive;
+  padding: 4%;
+}
+
+.name {
+  font-size: 4rem;
+}
+
+.table {
+  background-color: #a3d8f4;
+}
+
+.mid {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background-color: #9ab3f5;
+}
+
+#DataTables_Table_0_length {
+  color: black;
+  font-family: Poppins;
+  font-size: larger;
+}
+
+#DataTables_Table_0_filter {
+  padding: 10px;
+}
+
+#DataTables_Table_0 {
+  color: black;
+  font-size: larger;
+  font-family: Poppins;
+}
+
+.dataTables_wrapper {
+  color: black;
+  font-size: larger;
+  font-family: Poppins;
+}
